@@ -17,7 +17,6 @@ The project is segmented into three tiers of complexity: Easy, Moderate, and Adv
 
 - Advanced Level: Showcases the power of advanced SQL techniques. It prominently uses Common Table Expressions (CTEs) and window functions like ROW_NUMBER to answer complex queries.
 
-
 ## SQL Constructs Used:
 The project showcases a wide range of SQL constructs to address various querying needs:
 - Data Retrieval: SELECT, DISTINCT, and FROM.
